@@ -29,21 +29,21 @@ I was tasked with analyzing Zoom usage patterns across the HR department to iden
 ### Employee Count by Office Location
 Breaks down how HR employees are distributed across OnLok's office locations. Used to cross-reference where Zoom Rooms already existed versus where individual licenses were the only option.
 
-![Employee Count by Location](images/dashboard_2_location_chart.png)
+![Employee Count by Location](dashboard_2_location_chart.png)
 
 ---
 
 ### License Type Breakdown by Employment Category
 Shows the distribution of Zoom license types by employee category. This helped identify employee segments where license types were mismatched to actual usage needs.
 
-![License Type Pie Chart](images/dashboard_3_license_pie.png)
+![License Type Pie Chart](dashboard_3_license_pie.png)
 
 ---
 
 ### Employee Count vs. Zoom Room Count by Location
 The key insight visualization — comparing how many employees are at each location versus how many Zoom Rooms are available. Locations where Zoom Room count was sufficient relative to headcount were flagged as candidates for individual license removal.
 
-![Employee vs Zoom Room Count](images/dashboard_4_emp_vs_zoom.png)
+![Employee vs Zoom Room Count](dashboard_4_emp_vs_zoom.png)
 
 ---
 
