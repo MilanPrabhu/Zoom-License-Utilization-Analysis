@@ -51,9 +51,27 @@ The key insight visualization — comparing how many employees are at each locat
 
 | Metric | Outcome |
 |---|---|
-| License cost reduction | **40%** |
+| Projected license cost reduction | **40%** |
 | Method | Behavioral + location-based reallocation analysis |
 | Stakeholders | IT Team, Operations, Senior Leadership |
+
+> **Note:** The 40% represents a projected cost reduction based on the reallocation model. The analysis and recommendations were delivered to IT and Operations leadership at the conclusion of the internship — implementation occurred after my tenure.
+
+### How the 40% Was Projected
+
+Reallocation candidates were identified using a two-signal model:
+
+1. **Zoom Room Coverage Ratio** — Zoom Rooms ÷ Employees at that building. Locations with a high ratio already had sufficient shared meeting infrastructure, making individual licenses redundant.
+2. **Individual Usage Frequency** — Employees with below-median meeting activity were flagged as low-utilization users.
+
+Licenses where **both signals were true** were marked for reallocation. The cost projection followed:
+
+```
+Flagged Licenses × Avg Annual License Cost = Projected Savings
+Projected Savings ÷ Total License Spend = % Reduction
+```
+
+The flagged pool represented approximately 40% of total license spend in the analyzed cohort.
 
 ---
 
