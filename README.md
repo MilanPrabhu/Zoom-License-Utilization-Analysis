@@ -56,7 +56,6 @@ support shared meeting spaces instead?
 ---
 
 ### Employee Count vs. Zoom Room Count by Location
-The key insight visualization — comparing how many employees are at each location versus how many Zoom Rooms are available. Locations where Zoom Room count was sufficient relative to headcount were flagged as candidates for individual license removal.
 
 This chart compares how many HR employees are at each office location versus 
 how many Zoom Rooms that location has. If a building already has enough Zoom 
