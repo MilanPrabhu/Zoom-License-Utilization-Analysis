@@ -33,8 +33,21 @@ Breaks down how HR employees are distributed across OnLok's office locations. Us
 
 ---
 
-### License Type Breakdown by Employment Category
-Shows the distribution of Zoom license types by employee category. This helped identify employee segments where license types were mismatched to actual usage needs.
+### HR Employee Distribution by Employment Category and Location
+
+Shows how HR department employees are distributed across employment types 
+and office locations. Assuming all HR employees were provisioned a Zoom Pro 
+license — the standard at OnLok — this breakdown helped identify which 
+segments were reallocation candidates.
+
+Notable findings:
+- **Reg Full Time – SF Corporate Office** made up **56.41%** of the pool — 
+the largest segment and also the location with the most Zoom Rooms available
+- **Contractor/consultant and unknown categories** (~26% combined) typically 
+have lower usage frequency, making Pro licenses harder to justify
+
+Layering this distribution against the Zoom Room coverage ratio per building 
+is what drove the **projected 40% reduction**.
 
 ![License Type Pie Chart](dashboard_3_license_pie.png)
 
