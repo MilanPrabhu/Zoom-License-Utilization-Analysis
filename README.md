@@ -43,8 +43,8 @@ segments were reallocation candidates.
 Notable findings:
 - **Reg Full Time – SF Corporate Office** made up **56.41%** of the pool —
 the largest segment by far
-- **Contractor/consultant and unknown categories** (~26% combined) typically
-have lower usage frequency, making Pro licenses harder to justify
+- The remaining ~44% spans contractors, part-time, temporary, and unknown 
+employee types — each with different meeting needs
 
 Understanding who is in the license pool — and what type of employee they 
 are — is the first step in figuring out who actually needs a Pro license. 
