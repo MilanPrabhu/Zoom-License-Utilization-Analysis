@@ -41,13 +41,15 @@ license — the standard at OnLok — this breakdown helped identify which
 segments were reallocation candidates.
 
 Notable findings:
-- **Reg Full Time – SF Corporate Office** made up **56.41%** of the pool — 
-the largest segment and also the location with the most Zoom Rooms available
-- **Contractor/consultant and unknown categories** (~26% combined) typically 
+- **Reg Full Time – SF Corporate Office** made up **56.41%** of the pool —
+the largest segment by far
+- **Contractor/consultant and unknown categories** (~26% combined) typically
 have lower usage frequency, making Pro licenses harder to justify
 
-Layering this distribution against the Zoom Room coverage ratio per building 
-is what drove the **projected 40% reduction**.
+Understanding who is in the license pool — and what type of employee they 
+are — is the first step in figuring out who actually needs a Pro license. 
+This sets up the key question: does their office have the infrastructure to 
+support shared meeting spaces instead?
 
 ![License Type Pie Chart](dashboard_3_license_pie.png)
 
