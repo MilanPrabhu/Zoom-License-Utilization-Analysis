@@ -76,7 +76,6 @@ for individual license removal.
 | Method | Behavioral + location-based reallocation analysis |
 | Stakeholders | IT Team, Operations, Senior Leadership |
 
-> **Note:** The 40% represents a projected cost reduction based on the reallocation model. The analysis and recommendations were delivered to IT and Operations leadership at the conclusion of the internship — implementation occurred after my tenure.
 
 ### How the 40% Was Projected
 
